@@ -3,7 +3,7 @@
   * `git clone https://github.com/Ankit-Somani/Computer-Vision-Based-Web-App.git`
   * `cd Computer-Vision-Based-Web-App/Web_App`
 * Set the python environment and install the required python modules
-  * `flask_env/scripts/activate.bat`
+  * `flask_env\scripts\activate.bat`
   * `pip install -r requirements.txt`
 * Run the web app
   * `python app.py --source 0`
